@@ -51,14 +51,16 @@ img {
 
   float: right;
 }
-
+.card img{
+  float: left;
+}
 
 .footer{
   clear: left;
   text-align: right;
   color: rgb(220, 176, 31);
 }
-@media(max-width:300px){
+@media(max-width:213px){
   .logo{
     width: 100px;
   }
